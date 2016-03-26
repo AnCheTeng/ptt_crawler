@@ -1,0 +1,11 @@
+{
+  "name": "ptt-crawler",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongoose": "~4.4.8",
+    "request": "~2.69.0",
+    "cheerio": "~0.20.0"
+  },
+  "description": "ptt-crawler, example for Tech_Job board"
+}
